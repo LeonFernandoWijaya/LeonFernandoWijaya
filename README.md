@@ -6,6 +6,17 @@
 
 ---
 
+### 🐍 **Contribution Snake**
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonFernandoWijaya/LeonFernandoWijaya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonFernandoWijaya/LeonFernandoWijaya/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LeonFernandoWijaya/LeonFernandoWijaya/output/github-snake.svg" />
+</picture>
+</p>
+
+---
+
 ### 🛠 **Tech Stack & Tools**
 - 🚀 **Languages:** PHP, JavaScript  
 - 💾 **Database:** MySQL, Oracle Database, Microsoft SQL Server, Supabase  
@@ -34,17 +45,6 @@
 ### 🔥 **GitHub Streak**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonFernandoWijaya&theme=dark">
-</p>
-
----
-
-### 🐍 **Contribution Snake**
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonFernandoWijaya/LeonFernandoWijaya/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonFernandoWijaya/LeonFernandoWijaya/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LeonFernandoWijaya/LeonFernandoWijaya/output/github-snake.svg" />
-</picture>
 </p>
 
 ---
