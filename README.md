@@ -26,21 +26,21 @@
 
 ### 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark">
+  <img src="https://github-profile-trophy.vercel.app/?username=LeonFernandoWijaya&theme=onedark">
 </p>
 
 ---
 
 ### 🔥 **GitHub Streak**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonFernandoWijaya&theme=dark">
 </p>
 
 ---
 
 ### 🐍 **Contribution Snake**
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/LeonFernandoWijaya/LeonFernandoWijaya/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
