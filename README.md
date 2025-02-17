@@ -45,4 +45,4 @@
 
 ---
 
-✨ _Feel free to connect with me on [LinkedIn](https://linkedin.com/in/your-profile) or visit my [website](https://your-website.com)!_ 🚀
+✨ _Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/leon-fernando-wijaya-479016258/) or visit my [website](https://leon-official.vercel.app/)!_ 🚀
