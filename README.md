@@ -1,53 +1,31 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Your Name</a> 👋</h1>
-<p align="center">
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter"></a>
-</p>
+# snk
 
----
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-### 🛠 **Tech Stack & Tools**
-- 🚀 **Languages:** PHP, JavaScript, TypeScript  
-- 💾 **Database:** MySQL, PostgreSQL, Supabase  
-- 🎨 **Frontend:** React.js, Next.js, Tailwind CSS  
-- 🔧 **Backend:** Laravel, Express.js  
-- ☁ **Cloud & DevOps:** Vercel, Netlify, GitHub Actions  
-- 📌 **Other:** TensorFlow, Figma, Docker  
+Generates a snake game from a github user contributions graph
 
----
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-### 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="160px">
-</p>
+Pull a github user's contribution graph.
+Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
 
----
+Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
 
-### 🏆 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark">
-</p>
-
----
-
-### 🔥 **GitHub Streak**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark">
-</p>
-
----
-
-### 🐍 **Contribution Graph**
-<p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-✨ _Feel free to connect with me on [LinkedIn](https://linkedin.com/in/your-profile) or visit my [website](https://your-website.com)!_ 🚀  
-
----
-
-Ganti `your-username`, `your-profile`, dan `your-website.com` sesuai profil kamu ya! Mau ada tambahan lain? 😊
+Available as github action. It can automatically generate a new image each day. Which makes for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
