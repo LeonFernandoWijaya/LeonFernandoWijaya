@@ -1,0 +1,15 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - main  # Ganti dengan nama branch utama kamu (misalnya `main` atau `master`)
+
+jobs:
+  github-contribution-grid-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3  # Versi terbaru
+        with:
+          github_user_name: LeonFernandoWijaya  # Ganti dengan username GitHub kamu
+          entryPoint: github-contribution-grid-snake.svg  # File output SVG
